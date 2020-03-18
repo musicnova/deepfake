@@ -1,2 +1,1 @@
-# deepfake
-https://www.kaggle.com/c/deepfake-detection-challenge
+https://khashtamov.com/ru/apache-airflow-introduction/
